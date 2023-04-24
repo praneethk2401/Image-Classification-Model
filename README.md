@@ -26,7 +26,7 @@ The project uses Keras and TensorFlow frameworks for building and training the C
 
 ## Results
 
-The project achieves an accuracy of over 80% in classifying images into different categories using the CNN model.
+The project achieves an accuracy of over 80% in classifying images into different categories using the CNN model. This project also has GUI version to interact with the model in uploading the images and displaying the output results on the screen.
 
 ## Conclusion
 
